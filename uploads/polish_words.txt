@@ -1,0 +1,940 @@
+wysoki - yüksək
+stary - köhnə
+święty - müqəddəs
+duży - böyük
+mały - balaca
+narodowy - milli
+młody - gənc
+czarny - qara
+długi -uzun
+ważny - mühüm
+biały - ağ
+prawdziwy - gerçək
+najlepszy - ən yaxşı
+poprawny - düz (cavab)
+publiczny - ictimai
+pewny - əmin
+niski - aşağı (bal)
+wcześnie - əvvəl
+w stanie - qadir
+człowiek - insan
+lokalny - yerli
+późno - gec
+trudny - çətin
+większość - əksəriyyət
+lepszy - daha yaxşı
+mocny - güclü
+możliwy - mükün
+bezpłatny - pulsuz
+wolny - azad
+wojsko - ordu
+międzynarodowy - beynəlxalq
+w porządku - yaxşı, qaydasında
+grzywna - cərimə
+cały - bütöv (entire)
+pełny - dolu
+specjalny - xüsusi
+łatwy - asan
+ostatni - son, axırıncı
+pewien - müəyyən
+osobisty - şəxi
+pracownicy - işçi
+otwarty - açıq (qapı)
+czerwony - qırmızı
+dostępny - mövcud
+prawdopodobnie - yəqin ki, ehtimal ki
+krótki - qısa
+pojedynczy - tək
+leczenie - müalicə
+aktualny - hazırki
+zły - səhv, yalnış
+popełnić błąd - səhv etmək
+prywatny - özəl
+przeszłość - keçmiş
+zaskakujący - yabancı
+zagraniczny - xarici (dil)
+powszechny - yayğın (olaraq)
+wspólny - ortaq
+biedny - kasıb
+znaczący - mühüm, əhəmiyyətli
+podobny - oxşar
+gorący - isti
+martwy - ölü
+centralny - mərkəzi
+szczęśliwy - xoşbəxt
+poważny - ciddi
+gotowy - hazır
+prosty - sadə
+lewa - sol
+ogólny - ümumi
+środowisko - mühit
+konto - hesab (bank)
+niebieski - mavi
+ptak - quş
+ciemny - qaranlıq
+zamykać - bağlamaq
+zamknięty - bağlı
+blisko - yaxın
+daleko - uzaq
+religia - din
+modlić się - ibadət etmək
+zimny - soyuq
+ostatni - sonuncu
+główny - əsas
+zielony - yaşıl
+żółty - sarı
+piękny - gözəl
+miły - xoş, qeşəng
+ogromny - nəhəng
+rząd - cərgə
+słońce - günəş
+wózek widłowy - forklift
+wywrotka - kamaz, yük maşını
+uszkodzony - xarab
+rozbić - qırmaq
+przerwa - fasilə
+światło - işıq
+reflektory - fara, projektor
+deszcz - yağış
+kresło - oturacaq
+nazwisko - soyad
+pobyt - qalmaq (residency)
+znaleźć - tapmaq
+mogę - olar mı
+powinien - /malı, məli
+zadzwonić - zəng etmək
+s/próbować - cəhd etmək
+zapytać - soruşmaq
+potrzebować - ehtiyacı olmaq
+czuć - hiss etmək
+ból - ağrı
+stać się - olmaq (become)
+wychodzić - tərk etmək
+położyć - qoymaq
+znaczyć - məna vermək
+trzymać - saxlamaq
+lodówka - soyuducu
+pozwolić - icazə vermək
+zacynać - başlamaq
+wydać się - görünmək
+pomóc - kömək
+rozmawiać - danışmaq
+skręcić - dönmək
+zacząć - başlatmaq
+pokaz/ać - göstərmək
+słyszeć - eşitmək
+grać - oynamaq  (play)
+biegać - qaçmaq
+przenosić - daşımaq
+mieszkać - yaşamaq
+wierzyć - güvənmək
+przytrzymać - tutmaq (qapını)
+przynieść - gətirmək
+zdarzyć się - baş vermək
+pisać - yazmaq
+dostarczać - təmin etmək
+usiąść - oturmaq
+wstań - ayağa qalx
+zgubić - itirmək
+przegrać - uduzmaq
+płacić - ödəmək
+spotykać - görüşmək
+obejmować - daxil edilmək
+kontynuować - davam etmək
+ustawić - qurmaq
+uczyć się - öyrənmək
+zmieniać - dəyişmək
+prowadzić - idarə etmək
+rozumieć - başa düşmək
+oglądać - izləmək (film)
+podążać - təqib etmək (yolu)
+przestać - dayandırmaq
+tworzyć - yaratmaq
+mówić - danışmaq
+język - dil
+czytać - oxumaq
+dodać - əlavə etmək
+wydawać - xərcləmək
+rosnąć - böyümək (bitki)
+otworzyć - açmaq
+chodzić - getmək
+wygrać - udmaq
+pamiętać - xatırlamaq
+zapominać - unutmaq
+kochać - sevmək
+rozważać - nəzərə almaq
+naprawiać - təmir etmək
+pojawić się - peyda olmaq
+kupić - almaq
+sprzedać - satmaq
+wynajmować - kirayələmək
+czekać - gözləmək
+obsługiwać - xidmət etmək
+kelner - ofisiant
+umierać - ölmək
+wysłać - göndərmək
+oprócz - /savayı
+zbudować - tikmək (bina)
+zatrzymywać się - qalmaq (oteldə)
+zostawać - qalmaq (yerində)
+spadać - düşmək
+ciąć - kəsmək
+palec - barmaq
+docierać - çatmaq (harasa)
+zabić - öldürmək
+pozostać - qalmaq (remain)
+dostarczać - təslim etmək (deliver)
+załadować - yükləmək (tıra)
+ciężarówka - tır
+jeść - yemək yemək
+obiad - günorta yeməyi
+śniadanie - səhər yeməyi
+wyładować - boşaltmaq (tırı)
+zamawiać - sifariş vermək
+ubierać się - geyinmək
+śmiać się - gülmək
+pogoda - hava
+czyścić - təmizləmək
+posprzątać - toplamaq
+but - ayaqqabı
+koło - təkər
+magazyn - depo
+ochroniarz - mühafizəçi
+prowadzić - sürmək (maşın)
+kierowca - sürücü
+czas - vaxt
+ile masz lat ? - neçə yaşın var ?
+rok - il
+ludzie - insanlar
+sposób - yol, üsul
+codziennie - hər gün
+mężczyzna - kişi
+rzecz - əşya
+kobieta - qadın
+życie - həyat
+dziecko - uşaq
+świat - dünya
+szkoła - məktəb
+państwo - dövlət
+rodzina - ailə
+student - tələbə
+grupa - qrup
+kraj - ölkə
+problem - problem
+ręka - əl
+część - hissə
+miejsce - yer, məkan
+przyoadek - hal (vəziyyət)
+tydzień - həftə
+tygodniu - həftə
+firma - şirkət
+system - sistem
+program - proqram
+pytanie - sual
+praca - iş
+rząd - hökümət
+noc - gecə, axşam
+punkt - nöqtə
+dom - ev
+woda - su
+pokój - otaq (komnata)
+matka - ana
+obszar - sahə
+pieniądze - pul
+historia - hekayə, tarix
+fakt - fakt
+miesiąc - ay
+dużo - çox
+prawy - doğru
+edukacja - təhsil
+książka - kitab
+oko - göz
+rękawica - əlcək
+słowo - söz
+biznes - biznes
+kwestia - məsələ
+strona - tərəf
+rodzaj - növ
+głowa - baş
+przystanek - dayanacaq
+usługa - xidmət
+przyjaciel - dost
+ojciec - ata
+godzina - saat
+gra - oyun
+koniec - son
+członek - üzv
+prawo - qayda, qanun
+samochód - maşın
+miasto - şəhər
+społeczność - icma
+imię - ad
+prezydent - prezident
+zespół - komanda
+minuta - dəqiqə
+pomysł - fikir
+ciało - bədən
+informacja - məlumat
+rodzic - valideyn
+twarz - üz (sifət)
+poziom - mərhələ
+biuro - ofis
+drzwi - qapi
+zdrowie - sağlıq
+osoba - şəxs
+sztuka - incəsənət
+wojna - müharibə
+impreza - yığıncaq, parti
+wynik - nəticə
+rezultat - nəticə
+kantor - valyuta dəyişmə
+rano - səhər
+powód - səbəb
+badania - araşdırma
+dziewczyna - qız 
+chłopak - oğlan
+za chwile - az sonra, bir azdan
+powietrze - hava
+samolot - təyyarə
+nauczyciel - müəllim
+stacja - stansiya
+pociąg - qatar
+autobus - avtobus
+bilet - bilet
+po polsku - polyakca
+być - olmaq
+do - /a,ə /ya,yə
+przepraszam - üzr istəyirəm
+i - və
+skąd jesteś - haradansan?
+w - /da,də, içində
+tamten - o (kitab)
+mieć - varı olmaq
+ja - mən
+to - o
+dla - üçün
+nie - deyil, yox
+na - üstündə
+z - ilə
+on - o (kişi)
+jak - kimi
+ty - sən
+zrobić - etmək
+ten/ta - bu
+ale - amma
+jego - onun (kişi)
+przez - tərəfindən
+z/ze - /dan,dən
+oni - onlar
+powiedzieć - demək
+jej - onun (q)
+ona - o (q)
+albo/lub - və ya
+cześć - salam (informal)
+dzień dobry - iyi günlər
+dobry wieczór - iyi gecələr
+do widzenia - görüşənədək
+mój - mənim
+jeden - bir
+wszystko - bütün (insanlar)
+ich - onların
+co - nə
+więc - ona görə də
+w górę - yuxarı
+na zewnątrz - çöldə
+jeśli - əgər
+o - haqqında
+kto/kim - kim ?
+dostać - əldə etmək
+który - hansı
+iść - getmək
+mnie/mi - mənə
+kiedy - nə vaxt?
+zrobić - etmək
+móc - bacarmaq
+lubić - xoşlamaq
+czas - vaxt
+nie - yox
+jego - o
+znać - bilmək
+za(brać) - götürmək
+ludzie - insanlar
+rok - il
+twój - sənin
+dobry - yaxşı
+niektóre - bəzi
+pa pa - bye bye
+chodźmy - haydi (lets go)
+jak się masz - necəsən ?
+a ty - bəs sən (necəsən ?)
+im/ich - onlara/ı
+widzieć - görmək
+inny - digər
+wtedy - onda, o zaman
+teraz - indi
+spojrzeć - baxmaq
+przybyć - gəlmək
+ponad - üzərində (100ün)
+myśleć - fikirləşmək
+również - həmçinin
+tył - arxa(ya)
+po - sonra
+używać - istifadə etmək
+dwa - iki
+jak - necə?
+nasz - bizim
+pracować - işləmək
+pierwszy - birinci
+dobrze - yaxşı
+droga - yol (maşın yolu)
+nawet - hətta
+nowy - yeni
+chcieć - istəmək
+ponieważ - çünki
+dowolny - hərhansısa bir
+te - bunlar
+dać - vermək
+dzień - gün
+najbardziej - ən çox (axtarılan)
+bardzo - çox (gözəl)
+proszę - xahiş edirəm, (please)
+dziękuję - sağ ol!
+proszę bardzo - dəyməz, buyur
+miło mi poznać - tanışlığımıza şadam
+nie rozumiem - anlamıram
+nie wiem - bilmirəm
+trzy - üç
+zero - sıfır
+pięć - beş
+siedem - yeddi
+przykład - örnək
+deczja - qərar
+rower - velosiped
+czy - yoxsa (or), -mi?
+pies - it
+zdjęcie - şəkil
+rzeka - çay (axar ç.)
+córka - qız (övladı)
+mleko - süd
+długopis - ruçka
+tu/tutaj - bura (ya)
+tam - ora (ya)
+lustro - güzgü
+siebie - öz (ün)
+starać się - etməyə çalışmaq
+zawsze - həmişə
+dbać - qayğısına qalmaq
+jakiś - hər hansısa (bir)
+polecać - məsləhət görmək
+tłumaczyć - tərcümə etmək
+ulubiony - favorit
+niespodzianka - sürpriz
+urodziny - doğum günü
+musieć - məcburiyyətində olmaq
+ktoś - kimsə
+coś - nəsə
+ów - o (dediyin)
+jaki - hansı?
+widok - mənzərə
+zapach - qoxu
+mądry - müdrik
+bystry - ağıllı
+kwiat - çiçək
+jakiż - nəsə də (gizli, nocuz)
+ile? - nəçə? nə qədər?
+kosztować - qiymətində olmaq
+ile to kosztuje? - qiyməti bunun neçədir?
+jeszcze - hələ də
+mieszkanie - bina, mənzil
+syn - oğul
+dzisiaj - bu gün
+uprzejmy - kibar
+pani - xanım
+zmęczony - yorğun
+zabawny - gülməli
+ubranie - geyim
+ileż - nə qədər də (gözəlsən)
+żeby - ötrü ki,
+sklep - market
+nic - heç nə
+nikt - heç kim
+bać się - qorxmaq
+pająk - hörümçək
+cukier - şəkər
+pić - içmək
+trochę - bir az
+pierdolić - to fuck
+ciekawy - maraqlı
+naprawdę - həqiqətən
+podobać się - bəyənmək
+szybki - sürətli
+gorszy - çox pis
+dwadzieścia - iyirmi (20)
+trzydzieści - otuz (30)
+tysiąc - min
+zeszyt - dəftər
+jedenaście - on bir (11)
+drugi - ikinci
+czwarty - dördüncü
+siódmy - yeddinci
+trzeci - üçüncü
+jedenasty - on birinci (11ci)
+pan - cənab
+owszem - bəli (formal)
+też - həmçinin
+oczywiście - əlbəttə
+powodzenia - uğurlar!
+witamy - Xoş gəlmisiniz
+gotować - yemək hazırlamaq
+woleć - tərcih etmək
+myć - yumaq
+palić - (siqaret) çəkmək
+dotykać - toxunmaq
+szanować - hörmət etmək
+badać - sınaqdan keçirmək
+chować - gizlətmək
+kroić - kəsmək
+istnieć - mövcud olmaq
+marzyć - arzulamaq
+pensja - maaş
+płynąć - üzmək
+odpoczywać - dincəlmək
+'podróż'ować - 'səyahət' etmək
+wczoraj - dünən
+często - tez-tez
+wszędzie - hər yer
+całkowicie - tamamilə
+rzadko - nadirən
+dokładny - dəqiq
+jutro - sabah (tomorrow)
+czasami - bəzən
+dość - kifayət qədər
+po'wolny' - 'yavaş'
+rano - səhər
+ząb, 'zęby' - diş, 'dişlər'
+niż, od - daha (than)
+spacer - gəzinti
+ser - pendir
+chory - xəstə
+zakupy - alış-veriş
+gdy - nə zaman ki
+choć, mimo że - baxmayaraq (ki)
+wcale się - heç (qorxmadım)
+aby, żeby - ondan ötrü ki,
+herbata - çay
+ani - nə də
+gardło - boğaz (anatomik)
+padać - yağmaq (qar, yağış), düşmək
+przed - əvvəl, qabağında (yam)
+od - /dan,dən ,bəri
+przy - yanında, /da,də
+między - arasında
+fotel - kreslo
+łóżko - kravat, yataq
+wobec - dair, qarşı
+pomimo - baxmayaraq, əksinə
+podczas - ərzində
+zamiast - əksinə
+chmura - bulud
+drzewo - ağac
+martwić się - narahat olmaq
+zachowanie - davranış, hərəkət
+podstaw - təməl (i binanın)
+podjąć decyzję - qərar vermək
+jedzenie - yemək
+dziewięć - doqquz (9)
+dziesięć - on (10)
+ogólny - ümumi
+sposób postępowania - prosedurlar
+postępować - irəliləmək
+ładunek - yük (kargo)
+dodatkowo - əlavə olaraq
+obowiązek - vəzifə, məsuliyyət
+powyższy - yuxarıdakı
+wykonywać - icra etmək, həyata keçirmək
+czynność - fəaliyyət
+że - ki
+zwolnić - buraxmaq, azad etmək
+mieć miejsce - baş tutmaq
+wyłącznie - yalnızca, sadəcə
+kamizelka - yelek (jiletka)
+oraz - və
+wejść+ ie - girmək+ giriş
+kolejność - sıra
+odpowiedni - uyğun (bu şərtə)
+z wyprzedzenim - əvvəlcədən
+obie - hər ikisi
+umowa - müqavilə
+zaawansować - bildirmək
+bieżący - hazırki (vəziyyət)
+zależeć od - asılı olmaq
+wraz z - yanısıra, yanaşı
+egzemplarz - nüsxə (/si sənədin)
+posiada+ć+nie - sahib olma + q
+upasza się - təkid etmək
+wymagać - tələb etmək
+zwrot - iade, geri vermə
+świadczyć usługa - ...xidməti göstərmək
+uczestniczyć - iştirak etmək
+przy - /da,də , yanında
+czynny - aktiv
+nudny - darıxdırıcı
+niezwłocznie - dərhal
+brama - darvaza
+należy - gərəkli, vacib
+odbywać się - baş tutmaq
+udać się - getmək, müvəffəq olmaq
+jednostka - bölmə (unit)
+wojewoda - valilik (yerli icra hakimiyyəti)
+zezwolenie - icazə
+na 'podstaw'ie - 'əsas'lanaraq
+ustawa - qanun
+rozpatrywać - nəzərdən keçirmək
+wniosek - müraciət
+cudzoziemiec - yabancı
+siedziba - baş ofis, mərkəz
+obywatel - vətəndaş
+stanowisko - pazisiya (işdəki)
+s/pełnić - yerinə yetirmək
+zlecenie - vərdiş, iş
+wymiar - ölçü
+liczba - sayı (əşyaların)
+pół etat - part-time iş
+wynagrodzenie - xidməti haqqı
+okres - dövr, period
+określać - dəqiqləşdirmək (specify)
+spółka - şirkət
+na rzecz - ... adına (üçün)
+pracodawca - iş sahibi (müdir)
+przedmiot, podmiot - mövzu
+uwaga - diqqət
+wioska, wieś - kənd
+mowa - danışıq (speech)
+zdanie - cümlə
+pod + warunek - şərt + ilə
+zatrudnienie - istihdam, məşğulluq
+następny - sonrakı, növbəti
+upoważniać - səlahiyyət vermək
+nawzajem -  bir-birini
+powiadamiać - bildirmək
+zmiana - dəyişiklik
+przejęcie - devralma
+początek - başlanğıc
+przerwać - yarım qoymaq
+przekraczać - aşmaq, ötüb keçmək
+upływać - zamanın keçməsi
+okoliczność - vəziyyət, hal
+obowiązek - məsuliyyət
+obowiązkowy - məcburi
+kara + ć - cəza + landırmaq
+grzywna - cərimə
+odrębny - ayrı, ayrıca
+wymóg - tələb (şərt)
+uzależnienie - asılılıq
+zawód - peşə
+przedłużyć - uzatmaq (müddəti)
+termin - müddət, termin
+odwołać - ləğv etmək
+właściwy - uyğun, əlaqəli
+sprawa - məsələ, mövzu
+doręczać - çatdırmaq
+w trakcie - ərzində, müddətində
+zrzec się - imtina etmək, fikrindən daşınmaq
+brak - əskik
+załącznik - attachment (emaildəki)
+płeć - cinsiyyət
+stan cywilny - mədəni hal
+kawaler/panna - bekar kişi/qadın
+żonaty/zamężna - evli kişi/qadın
+rozwiedziony/a - boşanmış kişi/qadın
+w przypadku - ..olduğu halda, ..duğunda
+trwały, stały - daimi
+tymczasowy - müvəqqəti
+równoważny - ekvivalentində
+kierunek - istiqamət
+służbowy - iş(biznes) ilə əlaqədar
+wizyta - ziyarət (visit)
+urzędowy - rəsmi (oficjalny)
+wygląd - səbəbilə, ..xatir
+przejmować - qəbul etmək (akceptować)
+środek - orta, mərkəz
+ubezpieczenie - siğorta
+'odmów + a' + ić - 'rədd' + etmək
+wiele - çox
+wielokrotny - çox saylı (multiple)
+hasło - şifrə
+będące - mövcud, hazırki (problem)
+dotyczyć - aid olmaq, əlaqədar olmaq
+ogłoszenie - elan
+zapraszać - dəvət etmək
+utrzymanie - yaşayış xərcləri, texniki qulluq
+ubiegać się - barşvuru yapmak
+gotówka - nağd (pul)
+zakwaterowanie - yaşayış (akomodacja)
+pokrycie - örtmək (cover)
+zaświadczenie - sənəd, sertifikat
+statek - gəmi
+łyżka - qaşıq
+kilka - bir neçə (kitab)
+składnik - komponent, malzeme
+jeszcze - hələ, hələ də
+kawałek - parça, hissə
+stowarzyszenie - assosiasiya (təşkilat)
+handel - ticarət
+tożsamość - kimlik
+dowód - sübut (dəlil)
+krewny - qohum
+małżon ek/ka - ər/arvad
+sąd - məhkəmə
+całkowicie - tamamilə
+świadomy - agah, xəbərdar
+zawierać - içərmək, ehtiva etmək
+ukrywać - gizlətmək
+s/powodować - səbəb olmaq
+już - artıq (already)
+opuszczać - tərk etmək
+naby + ć/wać - əldə etmək
+odszkodowanie - təzminat
+skutek - nəticə
+ponownie - təkrarən 
+znowu - yenidən (başlamaq)
+sprawdz + ać/ić - yoxlamaq (check)
+wkraczać - müdaxilə etmək (intervene)
+rozwój - geliştirmə (development)
+rozwijać - geliştirmək (develop)
+niezbędny - əsas (hissə)
+odpowiadać - cavab vermək
+anulować - ləğv etmək
+strona - tərəf, səhifə
+list - məktub
+intencja - niyyət (intent)
+ustępować - baş vermək, meydana gəlmək
+kierować - yönləndirmək
+całkowity - toplam
+nadgodziny - mesai (overtime)
+zapewnić - təmin etmək
+mniej - daha az
+społeczny - sosial
+rozmiescić - yerbəyer etmək (arrange)
+układać - düzmək (yerlərinə)
+wyznaczyć - təyin etmək
+zarząd - idarə heyəti, administrasiya
+północ - şimal, gecəyarısı
+wschód - şərq
+południe - cənub
+zachód - qərb
+budynek - bina
+należeć - məxsus olmaq
+przenaczyć - ayırmaq (yer)
+znajdować się - yerləşmək
+lotnisko - hava limanı
+chętny - istəkli, həvəsli
+rodak - həmyerli
+przedsiębiorca - girşimçi, iş adamı
+doświadczenie - təcrübə (experience)
+powodzenie - müvəffəqiyyət, uğur
+teren - sahə, area
+dworzec - qatar stansiyası
+brzydki - çirkin
+stąd - buradan
+wspaniały - mütəssəm
+aż - qədər (until)
+zbierać - toplamaq (collect)
+ocena - dəyərləndirmə, reytinq
+podkreślać - vurğulamaq
+korzystny - faydalı, sərfəli
+wytrzymywać - dayandırmaq (işi)
+z/wiązać - bağlamaq (ipi)
+działać - çalışma, hərəkət etmək
+uważać - diqqət yetirmək
+iż - ki (bağlayıcı)
+szczegółowy - ətraflı
+(prze)szkolić - tədris etmək (təlim)
+przyszłość - gələcək (zaman)
+rozwiąz + 'anie' / ywać - 'həll' / etmək 
+były - bundan əvvəlki (former)
+lot - uçuş (flight)
+Nie ma za co - dəyməz..
+natychmiast - dərhal
+zjednoczyć - birləşmək
+niestety - təəssüf ki
+państwo - xanım və cənab (Mr. & Mrs.)
+kawiarnia - cafe
+pozdrawiamy - Hörmətlə,...
+aleja - prospekt
+rondo - kruq
+plac - meydan
+małpa - meymun, @ işarəsi
+kropka - nöqtə
+czasownik - fel
+latać - uçmaq
+zwiedzać - gəzmək, etmə
+śpiewać - mahnı oxumaq
+szukać - axtarmaq
+siostra - bacı
+dziadek - baba
+babcia - nənə
+mąż - ər
+żona - arvad
+małżeństwo - evlilik
+wnuczek/ka - nəvə (k/q)
+rzeczownik - isim (qrammatika)
+ciasto - tort
+cebula - soğan
+ziemniak/ kartofel - kartof
+mydło - sabun
+rodzeństwo - bacı-qardaş (sibling)
+głodny - ac
+mięso - ət
+wieprzowina - 'donuz' əti ('świnja')
+miód - bal
+zupa - sup
+złoty - pul vahidi (Polşanın)
+groszy - qəpik
+złoto - qızıl
+napoje - içkilər
+brązowy - qəhvəyi
+pomarańczowy - portağal rəngi
+szary - boz
+zwykle - adətən
+nadal - hələ də
+do zobaczenia - görüşənədək
+byłoby - olardı ...(yaxşı)
+chciałbyś - etmək istəmək (would like)
+zajęty - məşğul
+razem - birlikdə
+wystarczająco - kifayət qədər
+kanapka - sandviç
+kolejny - növbəti
+czemu/dlaczego - niyə?
+przykro mi - təəsüfləndim (xəstələnməyinə)
+mam(mieć) nadzieję - ümid varam...
+prawnik/adwokat - vəkil
+biegły - səlis (fluent)
+facet - oğlan, gənc
+przystojny - yaraşıqlı
+go/jego - onu
+ją- ondan (q)
+kubek - kruşka
+plecak - sərt çantası
+ściana - divar
+spóźnienie - gecikmə
+wysiadać - enmək, çıxmaq (maşından)
+piętro - mərtəbə
+wciąz - hələ də
+orazja - fürsət
+ćwiczyć - məşq etmək (practice)
+opowiadać - söyləmək
+kłamstwo - yalan
+kłamać - yalan danışmaq
+oszuk + ać/iwać - aldatmaq
+zeszły - keçən (il)
+wyglądać na - görünmək (yaraşıqlı)
+wszyscy - hər kəs
+wiek - yaş, əsr
+z nią/nim - onunla (q/k)
+temu - əvvəl (3 il)
+księgowy - mühasib
+poszedł - getdi
+ciesz się - şad olmaq
+jasne! - əlbəttə
+popołudnie - günorta (p.m.)
+przyjęcie - qonaqlıq, parti
+skończyć - bitirmək, başa vurmaq
+zaskoczyć - surpriz etmək
+w każdym razie - hər nəysə.. (anyway)
+dotrzeć - çatdırmaq
+bałagan - dağıntı (otaq)
+zanim - əvvəl
+ubranie/odzież - paltar
+pranie - laundry
+brudny - kirli
+dawno - uzun müddətri ki,
+patrzeć - baxmaq
+popatrz! - bəri bax!
+zbyt - çox (very)
+trzeba - /malı,məli
+śpieszyć się - tələsmək
+pośpiesz się ! - tələs !
+wróć - geri qayıtmaq
+chyba - güman edirəm ki,
+wygodny - əlverişli, rahat
+fajny - cool (görünmək)
+sądzić - düşünmək
+zamiar - niyyət
+licencjat - bakalavr dərəcəsi
+zdobyć - qazanmaq, əldə etmək
+zająć - zəbt etmək (ocup)
+witryna internetowa - vebsayt
+tak czy inaczej - hər iki halda..
+nie ma znaczenia - önəmi deyil..
+wiadomość - xəbər
+zginąć - ölmək (qəzada)
+straszny - dəhşətli (ölüm)
+zazwyczaj - adətən
+włącz + yć/ać - işə salmaq (kompyuteri)
+kiedykolwiek - nə vaxtsa
+więcej - daha çox (more)
+właściwie - həqiqətən (actually)
+umieć, potrafić - qadir olmaq (able)
+otrzymać - qəbul etmək (receive)
+danie - yemək
+zamierzać - niyyətində olmaq
+niepokoić - narahat etmək
+z tobą - səninlə
+dołaczyć - qatılmaq (join)
+brzmieć - səslənmək (sound)
+omawiać - müzakirə etmək
+dorastać - böyümək
+bohater - qəhrəman
+brać udział - iştirak etmək
+zawody - yarışma
+po/trwać - müddət çəkmək (to last)
+pozdrowienie, powitanie - salamlaşma
+zastanawiać się - arzusunda olmaq
+wspominać - qeyd etmək
+zgadywać - təxmin etmək
+doskonały - möhtəşəm (perfect)
+jak sprawy? - necədir? (how things)
+drukarka - printer
+atrament - mürəkkəb
+wyłączać - söndürmək (kompyuteri)
+później - sonra (later)
+odbiór - çəkim (telefon siqnalının), qəbul 
+wziąć - götürmək
+weź + mę/miesz - o/mən/sən götür
+kiedykolwiek - haçansa
+okropny - bərbad
+na szczęście - xoşbəxtlikdən
+oceniać - dəyərləndirmək qiymətləndirmək
+dosta + ć /wać - almaq
+przyzwoity - lazımlı
+krzywa - əyri
+ścisły - dəqiq
+czas trwania - müddət
+uruchomić - başlatmaq
+w razie - /olduğu halda
+błędnie - səhv (olaraq)
+bawić się - oynamaq (oyuncaqla)
+cienki - incə
+gruby - qalın
+tani - ucuz
+drogi - bahalı
+wesoły - şən
+smutny - qəmgin
+koleżanka - rəfiqə
+słodki - şirin
+biurko - masa
+odpoczy + wać /nek - dincəlmək
+z/denerwować - əsəbiləşmək
+zły - əsəbi
+zadowolony - məmnun
+ruch - hərəkət, trafik
+życzyć  - arzulamaq
+życzenie - arzu, istək
+okazja - fürsət
+korek - tıxac
+charytatywna - xeyriyyə
+ciągle - hər zaman, mütəmadi olaraq
+stopień - dərəcə
+głośno - ucadan (danış)
